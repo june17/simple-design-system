@@ -1,0 +1,19 @@
+{
+  "name": "simple-design-system",
+  "version": "1.0.0",
+  "description": "Yet another project that help you get started with versioning design assets with sketch and git.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/june17/simple-design-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/june17/simple-design-system/issues"
+  },
+  "homepage": "https://github.com/june17/simple-design-system#readme"
+}
